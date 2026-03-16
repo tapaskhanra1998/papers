@@ -31,6 +31,13 @@ Linguistics
 Sentence Meaning  
 Verbal Cognition  
 
+@article{khanra2025principal,
+  author = {Tapas Khanra},
+  title = {Principal Qualificand in Verbal Cognition: A Study of the Phrase 'Paśya Mṛgo Dhāvati'},
+  journal = {Journal of the Oriental Institute},
+  year = {2025}
+}
+
 ## File
 
 📄 `khanra_2025_principal_qualificand_verbal_cognition.pdf`
